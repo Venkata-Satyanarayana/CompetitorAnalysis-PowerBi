@@ -8,7 +8,7 @@ Welcome to the Competitor Performance Analysis Dashboard, designed to provide a 
 👥 Customer base comparison (number of customers per company)
 
 🌍 Regional performance
-## Data Source Overview ### [Data Source](https://1drv.ms/x/c/7a000c983cf15c01/EYy_DPurywVJgcHYeCIS7yYBb2GYWS0hvRXvzarAFQoAmA?e=p5sayy)
+## Data Source Overview  [[Data Source]](https://1drv.ms/x/c/7a000c983cf15c01/EYy_DPurywVJgcHYeCIS7yYBb2GYWS0hvRXvzarAFQoAmA?e=p5sayy)
   This data set is generated randomly by using the Python code.
 ### •	Company Information 
   This module consists of basic details of company such as company name, company id.
