@@ -1,5 +1,9 @@
-# CompetitorAnalysis-PowerBi
-The purpose of competitor analysis is to gain a deeper understanding of the business environment by examining other companies operating in the same market. It helps in understanding market dynamics, identifying opportunities for growth and making informed decisions.
+# Competitor Analysis
+Welcome to the Competitor Performance Analysis Dashboard, designed to provide a comparative view of the key performance indicators across three companies in the industry. This dashboard leverages Power BI to deliver insightful, data-driven visualizations that help identify:
+📈 Which company is performing better overall
+💰 Sales distribution and trends across the companies
+👥 Customer base comparison (number of customers per company)
+🌍 Regional performance
 ## Data Source Overview
   This data set is generated randomly by using the Python code.
 ### •	Company Information 
