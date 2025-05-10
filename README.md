@@ -8,7 +8,7 @@ The purpose of competitor analysis is to gain a deeper understanding of the busi
   This module consists of information of customers such as customer id, customer name, gender, age and country.
 ## •	Product Table 
   Product table consists of attributes like Product id, product name, category.
-## •	Sales Table – Fact table 
+## •	Sales Table – Fact table [Sales] ()
   Sales table gives the information about the transaction id, company id, region, customer id, order date, product id, quantity, price.
 ## •	Date Table – Created by using DAX
   This entity contains the attributes such as Month, Date, Order date.
