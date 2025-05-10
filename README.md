@@ -47,4 +47,7 @@ These are scenarios which we are going to visualize in our dashboard i.e. KPIs
 
 •	Ranking of companies by profit of companies.
 
+## Reporting Data Model Design
+![Alt text](https://github.com/Venkata-Satyanarayana/CompetitorAnalysis-PowerBi/blob/6ed35e20d19618b240e88c3b7e05994f00316c78/Screenshot%202025-05-10%20222604.png)
+
 
