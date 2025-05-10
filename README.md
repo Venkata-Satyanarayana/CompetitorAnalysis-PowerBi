@@ -44,6 +44,7 @@ These are scenarios which we are going to visualize in our dashboard i.e. KPIs
 •	Profit and loss of each product in company based on product and year.
 
 •	Comparing sales, budget, profit of all companies by product and year.
+
 •	Ranking of companies by profit of companies.
 
 
