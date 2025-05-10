@@ -23,4 +23,5 @@ Welcome to the Competitor Performance Analysis Dashboard, designed to provide a 
 ### •	Budget Table – Fact Table
 This entity contains the attributes such as Budget , company_id , product_id, year and sales amount
 ### •	Year table 
+This entity contains three years which was created by DAX
 
