@@ -49,5 +49,19 @@ These are scenarios which we are going to visualize in our dashboard i.e. KPIs
 
 ## Reporting Data Model Design
 ![Alt text](https://github.com/Venkata-Satyanarayana/CompetitorAnalysis-PowerBi/blob/6ed35e20d19618b240e88c3b7e05994f00316c78/Screenshot%202025-05-10%20222604.png)
+## ✅ Conclusion
+This Competitor Analysis Dashboard provides a comprehensive overview of how each of the three companies is performing across critical business metrics—Sales, Customer Count, and Profitability versus Budget. Through dynamic slicers and visual comparisons, stakeholders can easily identify:
+
+Which company is leading in overall performance
+
+Where sales and customer engagement are strongest
+
+How each company is managing profit targets compared to budget expectations
+
+The interactive features of the dashboard allow for customized analysis by time period, region, and product, enabling deeper insights for strategic planning and decision-making.
+
+📂 For further insights and detailed breakdowns, please refer to the attached Power BI (.pbix) file, which contains all visualizations and data models used in this analysis.
+
+
 
 
