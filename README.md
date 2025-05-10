@@ -1,5 +1,6 @@
 # Competitor Analysis
 Welcome to the Competitor Performance Analysis Dashboard, designed to provide a comparative view of the key performance indicators across three companies in the industry. This dashboard leverages Power BI to deliver insightful, data-driven visualizations that help identify:
+
 📈 Which company is performing better overall
 💰 Sales distribution and trends across the companies
 👥 Customer base comparison (number of customers per company)
